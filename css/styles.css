@@ -45,6 +45,8 @@ img {
     display: inline-block;
     padding: 16px 0px;
     position: relative;
+    font-family: 'Poppins';
+    font-weight: 400;
 }
 .header-menu a::after {
     content: "";
@@ -117,6 +119,8 @@ img {
     margin-bottom: 32px;
     font-size: 64px;
     line-height: 1.125;
+    font-family: 'Poppins';
+    font-weight: 400;
 }
 .introducao h1 span {
     color: #FFBB00;
